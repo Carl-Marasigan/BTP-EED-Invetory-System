@@ -8,9 +8,13 @@ This project aims to create an inventory system for machine spare parts includin
 Specific Objectives:
 
 •	To track the incoming and outgoing parts to check consumption and tool for every machine’s spare parts.
+
 •	For easy checking if spare parts are available or not.
+
 •	To prevent unavailability of spare parts that result in a long downtime.
+
 •	To easily locate spare parts location.
+
 •	To organize and easy spare parts inventory.
 
 Scope
