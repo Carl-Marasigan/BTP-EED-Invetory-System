@@ -32,14 +32,13 @@ Specific Objectives:
 Scope
 
 	With the help of this web application, the Belton Totoku Philippines Inc. Equipment Engineering Department will have access to an inventory management system that will track and verify the inbound and outbound movements of spare parts for each machine. Additionally, this system will provide generating reports and SMTP.
-Project Development
 
 ## Login System
 
 ![image](https://user-images.githubusercontent.com/90967308/218298444-d32d5db8-b5b4-4ba4-8116-4bc2acb23aef.png)
 
 
-## Inventory System
+## Inventory System (Admin Side)
 ![image](https://user-images.githubusercontent.com/90967308/218298431-06e17ef5-9a10-4295-86e9-41deda825ba4.png)
 
 
