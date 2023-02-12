@@ -1,9 +1,12 @@
 # BTP-EED-Invetory-System
 My first project as an intern using PHP, HTML, JavaScript, CSS and MYSQL
 
+General Objectives
 
 This project aims to create an inventory system for machine spare parts including an alarm for safety stocks and the location of machine spare parts.
+
 Specific Objectives:
+
 •	To track the incoming and outgoing parts to check consumption and tool for every machine’s spare parts.
 •	For easy checking if spare parts are available or not.
 •	To prevent unavailability of spare parts that result in a long downtime.
