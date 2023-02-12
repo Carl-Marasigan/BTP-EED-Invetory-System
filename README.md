@@ -13,11 +13,11 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 This is my first project as an intern using PHP, HTML, JavaScript, CSS and MYSQL.
 
-General Objective:
+## General Objective:
 
 	This project aims to create an inventory system for machine spare parts including an alarm for safety stocks and the location of machine spare parts.
   
-Specific Objectives:
+## Specific Objectives:
 
 •	To track the incoming and outgoing parts to check consumption and tool for every machine’s spare parts.
 
@@ -29,7 +29,7 @@ Specific Objectives:
 
 •	To organize and easy spare parts inventory.
 
-Scope
+## Scope
 
 	With the help of this web application, the Belton Totoku Philippines Inc. Equipment Engineering Department will have access to an inventory management system that will track and verify the inbound and outbound movements of spare parts for each machine. Additionally, this system will provide generating reports and SMTP.
 
