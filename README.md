@@ -11,7 +11,7 @@
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
-This is my first project as an intern using PHP, HTML, JavaScript, CSS and MYSQL.
+## This is my first project as an intern using PHP, HTML, JavaScript, CSS and MYSQL.
 
 ## General Objective:
 
